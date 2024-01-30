@@ -1,2 +1,5 @@
 A file.
 1 line of text.
+Happy Tuesday
+Thanks for coming to class
+Have a great day!
